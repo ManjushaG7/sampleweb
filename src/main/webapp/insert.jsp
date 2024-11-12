@@ -2,12 +2,12 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Registration Success</title>
-	</head>
-	<body>
-		<div align="center">
-		<h2 style="color:green">Registered Successfully....</h2>
-		</div>
+<head>
+<title>Registration Success</title>
+</head>
+<body>
+<div align="center">
+<h2 style="color:green">Registered Successfully....</h2>
+</div>
 </body>
 </html>
